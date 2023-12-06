@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MinRide
 - 👀 I’m interested in AI, Software Engineering, Compuiter Scinece in general, Games, Music Composing, Chess and Travelling)
-- 🌱 I’m currently studying Computer Science at both NURE and University of Bern 
+- 🌱 I’m currently studying Computer Science at ETH Zurich
 - 💞️ I’m looking to collaborate on developing apps for mobile and implementing some AI features in them
 - 📫 How to reach me - Telegram: @MinRide
 
